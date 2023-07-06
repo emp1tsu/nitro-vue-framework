@@ -1,0 +1,25 @@
+{
+  "name": "nitro-vue-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^1.5.10",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "h3": "^1.7.1",
+    "nitropack": "^2.5.2",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "prettier": "^3.0.0"
+  }
+}
